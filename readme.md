@@ -30,7 +30,9 @@ Now enhanced with:
 - **DMARC** aligns SPF/DKIM policies, mitigating spoofed emails.  
 
 If these records are missing or misconfigured, attackers can spoof emails more easily. This script flags such vulnerabilities so you can act quickly.
-#screenshot of HTML Output
+---
+
+# screenshot of HTML Output
 <img width="644" alt="image" src="https://github.com/user-attachments/assets/e50fd1c8-1d32-4338-a2b4-6d56654fe1ec" />
 
 ---
